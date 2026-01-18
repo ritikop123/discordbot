@@ -1,0 +1,21 @@
+{
+  "name": "CodeX-music-selfbot-v4",
+  "version": "1.0.0",
+  "description": "**This Script Is For Educational Purposes Only. The Author Is _NOT_ Responsible For Any Loss And Is _NOT_ Promoting Any Illegal Activities Or Any Illegal Automation.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "discord-rpc": "^4.0.1",
+    "discord.js-selfbot-v13": "^3.6.1",
+    "google-tts-api": "^2.0.2",
+    "rainlink": "^1.2.7",
+    "spotify-url-info": "^3.2.18",
+    "yt-search": "^2.13.1"
+  }
+}

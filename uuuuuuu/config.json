@@ -1,0 +1,17 @@
+{
+  "prefix": "1",
+  "allowedUserIds": ["1361371315180671026", "1361371315180671026"],
+  "lavalink": {
+    "host": "",
+    "port": ,
+    "password": "",
+    "secure": false
+  },
+  "spotify": {
+    "clientId": "f392a78d1b0b47b3afa63b5edb144989",
+    "clientSecret": "160ca6407a9043798f4f5eb706f3a529"
+  },
+  "autoplayDefault": false,
+  "ttsDefault": false,
+  "defaultLoop": "off"
+}
